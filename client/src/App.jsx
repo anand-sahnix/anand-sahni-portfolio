@@ -5,6 +5,7 @@ function App() {
     <>
       <div>
         <h1>This is my Portfolio Website.</h1>
+        <p>Building my portfolio from scratch.....</p>
       </div>
     </>
       
