@@ -600,7 +600,7 @@ function App() {
 
         <div className="container footer-bottom">
           <p>© {currentYear} {site.name}</p>
-          {site.showBuildCredit ? <p className="build-credit">Built with React, TypeScript and Tailwind</p> : null}
+          {site.showBuildCredit ? <p className="build-credit">Built with Love</p> : null}
         </div>
       </footer>
     </>
