@@ -600,7 +600,7 @@ function App() {
 
         <div className="container footer-bottom">
           <p>© {currentYear} {site.name}</p>
-          {site.showBuildCredit ? <p className="build-credit">Built with Love</p> : null}
+          {site.showBuildCredit ? <p className="build-credit">Built with Love by anand.</p> : null}
         </div>
       </footer>
     </>
